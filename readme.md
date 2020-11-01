@@ -1,5 +1,6 @@
 #**How to use:**
-###1. Install dependencies
+
+### 1. Install dependencies
 ```shell script
 python3 -m pip install -r requirements.txt
 ```
