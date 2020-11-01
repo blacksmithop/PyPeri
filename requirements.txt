@@ -1,7 +1,1 @@
-tensorflow
 opencv-python
-keras
-numpy
-imageai
-imutils
-dlib
