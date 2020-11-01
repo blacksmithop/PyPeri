@@ -4,7 +4,7 @@
 ```shell script
 python3 -m pip install -r requirements.txt
 ```
-###2. Create your dataset
+### 2. Create your dataset
 ```shell script
 cd PyPeri
 ```
